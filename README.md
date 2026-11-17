@@ -1,4 +1,12 @@
-# Incident Handler's Journal  
+# Incident Handler's Journal
+
+A learning journal covering simulated security incidents and tool exercises. Dates label the journal entries; scenario timestamps may differ.
+
+**Skills:** Incident documentation, phishing analysis, log review
+
+## Project context
+
+This repository presents an educational exercise. References to organisations and incidents describe the exercise scenario, not professional employment or a client engagement.
 
 This journal demonstrates my ability to **document, analyze, and respond to cybersecurity incidents** in a structured and professional way.  
 It highlights my practical use of tools like **VirusTotal, Suricata, SIEMs, vulnerability scanners, and log analysis** to investigate threats and apply incident response playbooks.  
@@ -72,4 +80,6 @@ It highlights my practical use of tools like **VirusTotal, Suricata, SIEMs, vuln
 - Using the **5 W’s** ensures full visibility into each incident.  
 - **Prevention and awareness** (phishing training, vulnerability management, monitoring) reduce risks.  
 - Reviewing past incidents highlights **policy and procedure gaps**, guiding future improvements.  
-- Keeping detailed notes strengthens the **incident response workflow** and continuous learning.  
+- Keeping detailed notes strengthens the **incident response workflow** and continuous learning.
+
+[Back to my portfolio](https://github.com/aaraf18)
